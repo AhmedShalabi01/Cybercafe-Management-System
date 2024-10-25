@@ -1,5 +1,5 @@
 # Cybercafe management system
-> This repository contains our implementation of the cyber cafe management system which is a terminal-based application built using Python, pandas, and JSON as a course project
+> This repository contains the implementation of the cyber cafe management system which is a terminal-based application built using Python, pandas, and JSON as a course project
 
 ## Table of Contents
 * [Requirements and Specifications](#requirements-and-specifications)
