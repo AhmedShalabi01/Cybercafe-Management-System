@@ -1,0 +1,42 @@
+[
+    {
+        "ahmed_khalid": {
+            "first_name": "emad",
+            "last_name": "khalid",
+            "user_name": "ahmed_khalid",
+            "phone_number": "0112354545",
+            "address": "giza",
+            "age": 21,
+            "role": "admin",
+            "password": "123",
+            "user_id": "2323"
+        }
+    },
+    {
+        "mohamed_khalid": {
+            "first_name": "mohamed",
+            "last_name": "khalid",
+            "user_name": "mohamed_khalid",
+            "phone_number": "0112354545",
+            "address": "giza",
+            "age": 21,
+            "role": "member",
+            "password": "123",
+            "user_id": "2323",
+            "credit": 0
+        }
+    },
+    {
+        "ahmed_khalid": {
+            "first_name": "emad",
+            "last_name": "khalid",
+            "user_name": "omar",
+            "phone_number": "0112354545",
+            "address": "giza",
+            "age": 21,
+            "role": "admin",
+            "password": "123",
+            "user_id": "2323"
+        }
+    }
+]
